@@ -559,7 +559,7 @@ li {
 .project-card {
   justify-self: stretch;
   position: relative;
-  height: 35rem;
+  height: 36rem;
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
   overflow: hidden;

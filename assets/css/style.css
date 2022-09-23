@@ -1257,4 +1257,217 @@ input:-webkit-autofill {
     transform: rotate(xx) translateY(0px);
     opacity: 1;
   }
+
 }
+
+.skills--text h2{
+  font-weight: 400;
+  letter-spacing: 1px;
+  margin-top: 40px;
+  margin-bottom: 5px;
+  color: #fff;
+  font-size: 16px;
+}
+.progress-bar{
+  background: #959595;
+  width: 500px;
+  height:10px;
+  border-radius: 5px;
+}
+
+  .progress-bar div{
+    height:10px;
+    border-radius: 5px;
+    width: 0%;
+  }
+
+  .progress-bar div span{
+    height:40px;
+    width: 40px;
+    border-radius: 50%;
+    background: #222;
+    float: right;
+    margin-top: -15px;
+    margin-right: -20px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .csharp{
+    animation: csharp 1s linear forwards;
+    background: #81334d;
+  
+  }
+  .csharp span{
+    border: 1px solid #81334d;
+  }
+  .dotnet{
+    animation: dotnet 1s linear forwards;
+    background: #cddc39;
+  }
+  .dotnet span{
+    border: 1px solid #cddc39;
+  }
+  .javascript{
+    animation: javascript 1s linear forwards;
+    background: #bcd44d;
+  }
+  .javascript span{
+    border: 1px solid #bcd44d;
+    
+  }
+  .typescript{
+    animation: typescript 1s linear forwards;
+    background: #ffeb3b;
+  }
+  .typescript span{
+    border: 1px solid #ffeb3b;
+   
+  }
+  .react{
+    animation: react 1s linear forwards;
+    background: #d16e27;
+  }
+  .react span{
+    border: 1px solid  #d16e27;  }
+  .azure{
+  animation: azure 1s linear forwards;
+    background: #7f159c;
+  }
+
+  .azure span{
+    border: 1px solid #7f159c;
+  }
+  @keyframes csharp {
+    100%{
+      width: 86%;
+    }
+    
+  }
+  @keyframes dotnet {
+    100%{
+      width: 76%;
+    }
+    
+  }
+  @keyframes javascript {
+    100%{
+      width: 70%;
+    }
+    
+  }
+  @keyframes typescript {
+    100%{
+      width: 65%;
+    }
+    
+  }
+  @keyframes react {
+    100%{
+      width: 77%;
+    }
+    
+  }
+  @keyframes azure {
+    100%{
+      width: 80%;
+    }
+    
+  }
+  .display-skills{
+    display: flex;
+    width: 95%;
+    margin-top: 10px;
+    justify-content: space-between;
+    align-items: flex-start;
+  
+  }
+
+  .kotlin{
+    animation: kotlin 1s linear forwards;
+    background: #7f159c;
+  
+  }
+  .kotlin span{
+    border: 1px solid #7f159c;
+  
+  }
+  .r{
+    animation: r 1s linear forwards;
+    background: #af57c4;
+  }
+  .r span{
+    border: 1px solid #af57c4;
+  
+  }
+  .matlab{
+    animation: javascript 1s linear forwards;
+    background: #2c6732;
+  }
+  .matlab span{
+    border: 1px solid #2c6732;
+   
+  }
+  .restapi{
+    animation: restapi 1s linear forwards;
+    background: #aca45c;
+  }
+  .restapi span{
+    border: 1px solid #aca45c;
+  }
+  .bootstrap{
+    animation: bootstrap 1s linear forwards;
+    background: #85af2a;
+  }
+  .bootstrap span{
+    border:1px solid #85af2a;
+  }
+  .css{
+    background: #3039be;
+  animation: css 1s linear forwards;
+  }
+
+  .css span{
+    border: 1px solid #3039be;
+  }
+
+  
+  @keyframes kotlin {
+    100%{
+      width: 81%;
+    }
+    
+  }
+  @keyframes r {
+    100%{
+      width: 75%;
+    }
+    
+  }
+  @keyframes matlab {
+    100%{
+      width: 70%;
+    }
+    
+  }
+  @keyframes restapi {
+    100%{
+      width: 65%;
+    }
+    
+  }
+  @keyframes bootstrap {
+    100%{
+      width: 77%;
+    }
+    
+  }
+  @keyframes css {
+    100%{
+      width: 80%;
+    }
+    
+  }
+
+ 

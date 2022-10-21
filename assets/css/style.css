@@ -8,17 +8,17 @@
   --red: #fe3e57;
   --light-red: #e94d62;
   --white: #fffffe;
-  --dim-white: #e1e1e1;
+  --dim-white: #603e3e;
   --primary-text: rgb(119, 154, 200);
   --territory-text: rgb(214, 217, 224);
-  --secondary-text: rgb(166, 172, 194);
+  --secondary-text: rgb(32, 38, 58);
   --secondary-head: rgb(215, 224, 236);
-  --primary-background: #98bec6;
+  --primary-background: #606f72;
   --card-background: rgb(54, 55, 44);
   --secondary-background: rgb(76, 95, 124);
   --secondary-button: #191b1d;
   --dark-shadow: #051020;
-  --footer: #131d2c;
+  --footer: #6c8ec2;
 
   --montserrat: "Montserrat", sans-serif;
   --open-sans: "Open Sans", sans-serif;

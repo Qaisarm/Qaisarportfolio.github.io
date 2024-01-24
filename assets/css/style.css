@@ -5,8 +5,8 @@
 }
 
 :root {
-  --red: #f33850;
-  --light-red: #c33649;
+  --red: #ee9767bc;
+  --light-red: #eae1e2;
   --white: #fffffe;
   --dim-white: #603e3e;
   --primary-text: rgb(119, 154, 200);
@@ -73,7 +73,7 @@ li {
 ::-webkit-scrollbar-thumb {
   -webkit-border-radius: 10px;
   border-radius: 50px;
-  background: #5757577a;
+  background: #bc70707a;
 }
 
 ::-webkit-scrollbar-thumb:hover {
